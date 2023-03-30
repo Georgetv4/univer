@@ -1,2 +1,2 @@
 # univer
-This repo for my university tasks
+This is repo for my university tasks
